@@ -9,6 +9,14 @@ Welcome to the **Tic Tac Toe with WebSocket Connection** project! This repositor
 featuring improved game logic and data communication through WebSockets. 
 This project addresses several key issues found in the original youtube video and includes some cool additional features.
 
+## Table of Contents
+- [Features](#features-✨)
+- [Bug Fixes](#bug-fixes-🔧🐞)
+- [Installation](#installation-💻)
+- [Usage](#usage-📖)
+- [Contributing](#contributing-🤝)
+- [License](#license-📜)
+
 ## Features ✨
 
 - **Turn-Based Button Disable**: Players can only make a move when it is their turn.
@@ -35,7 +43,7 @@ This project addresses several key issues found in the original youtube video an
 - **Fix**: Added socket disconnection and player cleanup functionality.
 _____________________________________________________________________________________________________________________________________________
 
-=> Usage 📖
+## Usage 📖
 Open your browser and navigate to http://localhost:3000.
 Enter your name and click the "Search for player" button.
 Wait to be paired with another player.
@@ -43,5 +51,5 @@ Enjoy the game!
 Contributing 🤝
 We welcome contributions to enhance the game! If you have any suggestions, feel free to open an issue or create a pull request.
 
-=> License 📜
+## License 📜
 There is no Lisense of this project whole credit goes to "Techy Web Dev" youtube channel
